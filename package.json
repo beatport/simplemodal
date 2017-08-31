@@ -1,0 +1,19 @@
+{
+  "name": "simplemodal",
+  "version": "1.4.5",
+  "description": "A modal dialog framework for jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatport/simplemodal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beatport/simplemodal/issues"
+  },
+  "homepage": "https://github.com/beatport/simplemodal#readme"
+}
